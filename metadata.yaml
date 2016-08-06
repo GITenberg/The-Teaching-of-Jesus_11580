@@ -1,0 +1,28 @@
+_repo: The-Teaching-of-Jesus_11580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, George
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '4034'
+    url: http://www.gutenberg.org/2009/agents/4034
+description: Title; Contents; Preface; Introductory; Concerning God; Concerning Himself;
+  Concerning His Own Death; Concerning the Holy Spirit; Concerning the Kingdom of
+  God; Concerning Man; Concerning Sin; Concerning Righteousness; Concerning Prayer;
+  Concerning the Forgiveness of Injuries; Concerning Care; Concerning Money; Concerning
+  the Second Advent; Concerning the Judgment; Concerning the Future Life; Endnotes.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Teachings'
+- !lcc 'BS'
+- GITenberg
+title: The Teaching of Jesus
+url: http://www.gutenberg.org/ebooks/11580
