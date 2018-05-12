@@ -1,5 +1,8 @@
 _repo: The-Teaching-of-Jesus_11580
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jackson, George
@@ -12,6 +15,8 @@ description: Title; Contents; Preface; Introductory; Concerning God; Concerning 
   God; Concerning Man; Concerning Sin; Concerning Righteousness; Concerning Prayer;
   Concerning the Forgiveness of Injuries; Concerning Care; Concerning Money; Concerning
   the Second Advent; Concerning the Judgment; Concerning the Future Life; Endnotes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11580#The-Teaching-of-Jesus
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
